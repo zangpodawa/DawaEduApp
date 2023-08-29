@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaEduApp</string>
+    <string name="username">upayogakarta naam:</string>
+    <string name="enter_a_name">naam daalen</string>
+    <string name="go">jaana</string>
+    <string name="question_1_3">savaal</string>
+    <string name="score_10_30">ank:</string>
+    <string name="duration_100">avadhi:</string>
+    <string name="enter_your_answer">apana uttar darj karen</string>
+    <string name="submit">jama karana</string>
+    <string name="score_list">skor soochee</string>
+    <string name="name">naam</string>
+    <string name="level">star</string>
+    <string name="score">ank</string>
+    <string name="time">samay</string>
+    <string name="date">taareekh</string>
+    <string name="setting">seting</string>
+    <string name="select_a_level">ek star chunen</string>
+    <string name="play">khel</string>
+</resources>

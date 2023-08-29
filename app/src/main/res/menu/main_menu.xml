@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="SCORE"
+        android:icon="@drawable/ic_action_home"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/score"
+        android:title="SCORE"
+        android:icon="@drawable/ic_action_apps"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/setting"
+        android:title="SCORE"
+        android:icon="@drawable/ic_action_settings"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/language"
+        android:title="SCORE"
+        android:icon="@drawable/ic_action_language"
+        app:showAsAction="always"></item>
+
+
+</menu>

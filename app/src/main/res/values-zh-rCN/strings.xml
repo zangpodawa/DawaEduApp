@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaEduApp</string>
+    <string name="username">Yònghù míng:</string>
+    <string name="enter_a_name">Shūrù míngchēng</string>
+    <string name="go">Qù</string>
+    <string name="question_1_3">"Wèntí "</string>
+    <string name="score_10_30">Fēnshù:</string>
+    <string name="duration_100">Qíjiān:</string>
+    <string name="enter_your_answer">Shūrù nín de dá\'àn</string>
+    <string name="submit">Tíjiāo</string>
+    <string name="score_list">Défēn biǎo</string>
+    <string name="name">Xìngmíng</string>
+    <string name="level">Děngjí</string>
+    <string name="score">Fēnshù</string>
+    <string name="time">Shíjiān</string>
+    <string name="date">Rìqí</string>
+    <string name="setting">Huánjìng</string>
+    <string name="select_a_level">Xuǎnzé yīgè jíbié</string>
+    <string name="play">Wán</string>
+</resources>

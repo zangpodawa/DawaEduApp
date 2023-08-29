@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DawaEduApp</string>
+    <string name="username">USERNAME:</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="go">GO</string>
+    <string name="question_1_3">Question 1 (/3)</string>
+    <string name="score_10_30">Score: 10 (/30)</string>
+    <string name="duration_100">Duration: 100</string>
+    <string name="enter_your_answer">Enter your answer</string>
+    <string name="submit">SUBMIT</string>
+    <string name="score_list">SCORE LIST</string>
+    <string name="name">Name</string>
+    <string name="level">Level</string>
+    <string name="score">Score</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="setting">SETTING</string>
+    <string name="select_a_level">SELECT A LEVEL</string>
+    <string name="play">PLAY</string>
+    <string name="todo">TODO</string>
+    <string name="todoo">TODO</string>
+    <string name="welcome">TODO</string>
+    <string name="namee">Name</string>
+    <string name="levell">Level</string>
+    <string name="scoree">Score</string>
+    <string name="mm_sss">MM:SS</string>
+    <string name="mm_dd_mm_ss">MM:DD MM:SS</string>
+
+    <string-array name="levels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="shortLanguages">
+        <item>en</item>
+        <item>zh</item>
+        <item>fr</item>
+        <item>hi</item>
+        <item>vi</item>
+    </string-array>
+</resources>

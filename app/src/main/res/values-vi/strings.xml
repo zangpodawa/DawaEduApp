@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaEduApp</string>
+    <string name="username">TÊN TÀI KHOẢN:</string>
+    <string name="enter_a_name">Nhập tên</string>
+    <string name="go">ĐI</string>
+    <string name="question_1_3">Câu hỏi</string>
+    <string name="score_10_30">Điểm:</string>
+    <string name="duration_100">Khoảng thời gian:</string>
+    <string name="enter_your_answer">nhập câu trả lời của bạn</string>
+    <string name="submit">NỘP</string>
+    <string name="score_list">DANH SÁCH ĐIỂM</string>
+    <string name="name">Tên</string>
+    <string name="level">Mức độ</string>
+    <string name="score">Điểm</string>
+    <string name="time">Thời gian</string>
+    <string name="date">Ngày</string>
+    <string name="setting">CÀI ĐẶT</string>
+    <string name="select_a_level">CHỌN MỘT CẤP ĐỘ</string>
+    <string name="play">CHƠI</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaEduApp</string>
+    <string name="username">NOM D\'UTILISATEUR:</string>
+    <string name="enter_a_name">Entrez un nom</string>
+    <string name="go">ALLER</string>
+    <string name="question_1_3">"Question "</string>
+    <string name="score_10_30">Score:</string>
+    <string name="duration_100">Durée:</string>
+    <string name="enter_your_answer">Entrez votre réponse</string>
+    <string name="submit">SOUMETTRE</string>
+    <string name="score_list">LISTE DE SCORE</string>
+    <string name="name">Nom</string>
+    <string name="level">Niveau</string>
+    <string name="score">Score</string>
+    <string name="time">Temps</string>
+    <string name="date">Date</string>
+    <string name="setting">PARAMÈTRE</string>
+    <string name="select_a_level">SÉLECTIONNER UN NIVEAU</string>
+    <string name="play">JOUER</string>
+</resources>
